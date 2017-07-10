@@ -1,0 +1,14 @@
+D:\Pedja\WPF Tutorial\TreeView Folders\WpfTreeView\WpfTreeView\bin\Debug\WpfTreeView.exe.config
+D:\Pedja\WPF Tutorial\TreeView Folders\WpfTreeView\WpfTreeView\bin\Debug\WpfTreeView.exe
+D:\Pedja\WPF Tutorial\TreeView Folders\WpfTreeView\WpfTreeView\bin\Debug\WpfTreeView.pdb
+D:\Pedja\WPF Tutorial\TreeView Folders\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.csprojResolveAssemblyReference.cache
+D:\Pedja\WPF Tutorial\TreeView Folders\WpfTreeView\WpfTreeView\obj\Debug\MainWindow.g.cs
+D:\Pedja\WPF Tutorial\TreeView Folders\WpfTreeView\WpfTreeView\obj\Debug\App.g.cs
+D:\Pedja\WPF Tutorial\TreeView Folders\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView_MarkupCompile.cache
+D:\Pedja\WPF Tutorial\TreeView Folders\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView_MarkupCompile.lref
+D:\Pedja\WPF Tutorial\TreeView Folders\WpfTreeView\WpfTreeView\obj\Debug\MainWindow.baml
+D:\Pedja\WPF Tutorial\TreeView Folders\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.g.resources
+D:\Pedja\WPF Tutorial\TreeView Folders\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.Properties.Resources.resources
+D:\Pedja\WPF Tutorial\TreeView Folders\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.csproj.GenerateResource.Cache
+D:\Pedja\WPF Tutorial\TreeView Folders\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.exe
+D:\Pedja\WPF Tutorial\TreeView Folders\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.pdb
